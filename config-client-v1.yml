@@ -1,0 +1,6 @@
+#服务端口
+server:
+  port: 9100
+#版本描述
+version:
+  message:配置中心发布第一个版本
